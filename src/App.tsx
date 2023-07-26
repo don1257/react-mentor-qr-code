@@ -1,10 +1,11 @@
 import * as React from 'react';
 import Card from './Card/Card'
 import FontComponent from "./FontComponent";
+import './App.css'
 
 export default function App() {
   return (
-      <div>
+      <div className='App-background'>
         <FontComponent />
         <Card
             title = 'Improve your front-end skills by building projects'

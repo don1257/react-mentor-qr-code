@@ -1,0 +1,45 @@
+.card {
+  align-items: center;
+  background-color: white;
+  border: 15px solid white;
+  border-radius: 15px;
+  display: flex;
+  flex-direction: column;
+  height: 475px;
+  max-width: 285px;
+}
+
+.card-container {
+  background-color: grey;
+  height: 667px;
+  margin: 0;
+  width: 375px;
+}
+
+.card-description {
+  color: hsl(220, 15%, 55%);
+  font-family: 'Outfit';
+  font-size: 15px;
+  font-weight: 400;
+  text-align: center;
+  width: 100%;
+}
+
+.card-image {
+  border-radius: 10px;
+  height: 285px;
+  width: 285px;
+}
+
+.card-text-container {
+  max-width: 90%;
+}
+
+.card-title {
+  color: hsl(218, 44%, 22%);
+  font-family: 'Outfit';
+  font-size: 20px;
+  font-weight: 700;
+  text-align: center;
+  width: 100%;
+}

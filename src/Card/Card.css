@@ -9,13 +9,6 @@
   max-width: 285px;
 }
 
-.card-container {
-  background-color: grey;
-  height: 667px;
-  margin: 0;
-  width: 375px;
-}
-
 .card-description {
   color: hsl(220, 15%, 55%);
   font-family: 'Outfit';

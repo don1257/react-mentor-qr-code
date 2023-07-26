@@ -1,13 +1,11 @@
 import * as React from "react"
 import './Card.css'
-import mobileDesignImage from '../mobile-design.jpg';
 
 // @ts-ignore
 const Card = ({title, description}) => {
 
 return (
     <>
-        {/*<div className='card-container'>*/}
           <div className='card'>
 
             <img
@@ -24,13 +22,6 @@ return (
             </div>
 
           </div>
-
-        {/*</div>*/}
-
-        {/*<img*/}
-        {/*    className='card-transparent'*/}
-        {/*    src={mobileDesignImage}*/}
-        {/*/>*/}
     </>
 )
 

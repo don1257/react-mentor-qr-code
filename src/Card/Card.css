@@ -11,8 +11,7 @@
 
 .card-description {
   color: hsl(220, 15%, 55%);
-  font-family: 'Outfit';
-  font-size: 15px;
+  font-family: Outfit, sans-serif;
   font-weight: 400;
   text-align: center;
   width: 100%;
@@ -30,7 +29,7 @@
 
 .card-title {
   color: hsl(218, 44%, 22%);
-  font-family: 'Outfit';
+  font-family: Outfit, sans-serif;
   font-size: 20px;
   font-weight: 700;
   text-align: center;
